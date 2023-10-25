@@ -8,14 +8,11 @@ const Footer = () => {
     <div className={styles.container}>
       <div className={styles.info}>
         <div className={styles.logo}>
-          <Image src="/logo.png" alt="lama blog" width={50} height={50} />
+          <Image src="/logo.svg" alt="lama blog" width={50} height={50} />
           <h1 className={styles.logoText}>WriteWise</h1>
         </div>
         <p className={styles.desc}>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim
-          necessitatibus similique aspernatur obcaecati veritatis. Aperiam cum
-          porro sequi, totam minima consequuntur, aspernatur deleniti vero
-          repellendus dorales.
+        We also value your privacy and transparency, which is why we've included links to our Privacy Policy, Terms of Service, and Cookie Policy. Stay connected with us by following our social media profiles through the provided icons. Thank you for being a part of our online community
         </p>
         <div className={styles.icons}>
           <Image src="/facebook.png" alt="" width={18} height={18} />

@@ -15,7 +15,7 @@ const MenuPosts = ({ withImage }) => {
         <div className={styles.textContainer}>
           <span className={`${styles.category} ${styles.travel}`}>Travel</span>
           <h3 className={styles.postTitle}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Wanderlust Unleashed: Exploring the World One Adventure at a Time
           </h3>
           <div className={styles.detail}>
             <span className={styles.username}>John Doe</span>
@@ -34,7 +34,7 @@ const MenuPosts = ({ withImage }) => {
             Culture
           </span>
           <h3 className={styles.postTitle}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Celebrating Diversity: A Cultural Odyssey.
           </h3>
           <div className={styles.detail}>
             <span className={styles.username}>John Doe</span>
@@ -51,7 +51,7 @@ const MenuPosts = ({ withImage }) => {
         <div className={styles.textContainer}>
           <span className={`${styles.category} ${styles.food}`}>Food</span>
           <h3 className={styles.postTitle}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          The Culinary Chronicles: Exploring the World of Flavor.
           </h3>
           <div className={styles.detail}>
             <span className={styles.username}>John Doe</span>
@@ -70,7 +70,7 @@ const MenuPosts = ({ withImage }) => {
             Fashion
           </span>
           <h3 className={styles.postTitle}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Elegance Unveiled: A Stylish Sojourn into Fashion.
           </h3>
           <div className={styles.detail}>
             <span className={styles.username}>John Doe</span>
