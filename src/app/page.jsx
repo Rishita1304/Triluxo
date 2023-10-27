@@ -15,6 +15,7 @@ export default function Home({ searchParams }) {
       <div className={styles.content}>
         <CardList page={page}/>
         <Menu />
+        <CategoryList/>
       </div>
     </div>
   );
