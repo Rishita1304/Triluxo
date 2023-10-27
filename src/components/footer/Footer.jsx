@@ -12,7 +12,7 @@ const Footer = () => {
           <h1 className={styles.logoText}>WriteWise</h1>
         </div>
         <p className={styles.desc}>
-        We also value your privacy and transparency, which is why we've included links to our Privacy Policy, Terms of Service, and Cookie Policy. Stay connected with us by following our social media profiles through the provided icons. Thank you for being a part of our online community
+        {/* We also value your privacy and transparency, which is why we've included links to our Privacy Policy, Terms of Service, and Cookie Policy. Stay connected with us by following our social media profiles through the provided icons. Thank you for being a part of our online community */}
         </p>
         <div className={styles.icons}>
           <Image src="/facebook.png" alt="" width={18} height={18} />
